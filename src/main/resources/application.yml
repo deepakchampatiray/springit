@@ -1,0 +1,6 @@
+springit:
+  welcome-msg: Message form Production
+spring:
+  profiles:
+    active:
+      - prod
